@@ -1,0 +1,1 @@
+console.log('This tests switching between commit snapshots')
